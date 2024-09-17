@@ -49,13 +49,13 @@ In git bash.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/AnisanYT/Auth_Animal.git)
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Auth_Animal
 ```
 
 Install dependencies
@@ -69,4 +69,4 @@ Start the server
 ```bash
   node index.js
 ```
-
+Remember to do the changes in the code, for example, insert your Atlas link in index.js
