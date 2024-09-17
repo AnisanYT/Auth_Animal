@@ -49,7 +49,7 @@ In git bash.
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/AnisanYT/Auth_Animal.git)
+  git clone https://github.com/AnisanYT/Auth_Animal.git
 ```
 
 Go to the project directory
